@@ -1,0 +1,12 @@
+name: native_desktop
+version: 1.0.0
+
+authors:
+  - Ali Naqvi <syed.alinaqvi@gmail.com>
+
+description: |
+  Host-neutral native desktop controls and operating-system services for Crystal GUI applications.
+
+crystal: ">= 1.21.0"
+
+license: MIT
